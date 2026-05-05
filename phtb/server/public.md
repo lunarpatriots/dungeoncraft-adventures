@@ -4,7 +4,7 @@ permalink: /phtb/public
 ---
 
 # Connecting To Multiplayer Servers
-> Make sure you have gone through these [initial setups](/dungeoncraft/phtb) first before joining a server.
+> Make sure you have gone through these [initial setups](/dungeoncraft-adventures/phtb) first before joining a server.
 
 1. On the multiplayer screen, enter these details for the IP address:
    - Test Server: [https://drive.google.com/file/d/1E2u4MYnIS4fXtE8vOzikyqyCl7rUsK9U](https://drive.google.com/file/d/1E2u4MYnIS4fXtE8vOzikyqyCl7rUsK9U){:target="_blank"}
