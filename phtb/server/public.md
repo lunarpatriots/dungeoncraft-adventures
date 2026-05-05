@@ -13,8 +13,7 @@ permalink: /phtb/public
    **PLEASE DO NOT SHARE THE SERVER IP TO ANYONE**
 2. When you join a server for the first time, the `username` and `password` from your `dungeoncraft-client.yml` config
    file will be sent to the server to trigger the registration, and this message should appear: \
-   `Thank you for registering! Please wait to be whitelisted.` \
-   Once whitelisted by the serer admin, you may now enter the server.
+   `Thank you for registering! Please wait to be whitelisted.` 
    
    These messages might also appear:
 
@@ -26,5 +25,7 @@ permalink: /phtb/public
    | User is not registered!        | Server admin disabled registration of new players            |
    | Authentication error!          | Server side error, please reach out to admin                 |
    | Config file missing!           | Check if you have set up `dungeoncraft-client.yml` correctly |
+
+   Once whitelisted by the serer admin, you may now play on the server.
 
 [BACK](/dungeoncraft/phtb)
