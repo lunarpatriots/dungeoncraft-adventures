@@ -41,4 +41,4 @@ To allocate RAM:
 
 Once these have been configured, you are now ready to join a server.
 
-[BACK](/dungeoncraft/phtb)
+[BACK](/dungeoncraft-adventures/phtb)

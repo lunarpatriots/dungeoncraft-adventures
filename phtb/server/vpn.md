@@ -15,6 +15,6 @@ To establish connection to the test server:
    then click `Join`. \
    **PLEASE DO NOT SHARE THE VPN INFORMATION TO OTHERS**
 
-Once you have VPN running, you may now [connect to the server](./dungeoncraft/phtb/smp).
+Once you have VPN running, you may now [connect to the server](/dungeoncraft-adventures/phtb/smp).
 
-[BACK](/dungeoncraft/phtb)
+[BACK](/dungeoncraft-adventures/phtb)

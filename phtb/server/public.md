@@ -28,4 +28,4 @@ permalink: /phtb/public
 
    Once whitelisted by the serer admin, you may now play on the server.
 
-[BACK](/dungeoncraft/phtb)
+[BACK](/dungeoncraft-adventures/phtb)
