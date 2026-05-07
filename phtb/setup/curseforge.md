@@ -3,7 +3,7 @@ layout: default
 permalink: /phtb/curseforge
 ---
 
-# CurseForge Launcher Setup
+# CurseForge Setup Guide
 ## How to install
  
 Download the latest version from [CurseForge](https://www.curseforge.com/minecraft/modpacks/dungeoncraft-adventures-phtb){:target="_blank"},

@@ -1,10 +1,8 @@
 ---
 layout: default
-permalink: /phtb/test-server
+permalink: /phtb/vpn/
 ---
-# Joining the Test Server
-
-## Prerequisite
+# Test Server VPN
 
 To establish connection to the test server:
 
@@ -15,6 +13,6 @@ To establish connection to the test server:
    then click `Join`. \
    **PLEASE DO NOT SHARE THE VPN INFORMATION TO OTHERS**
 
-Once you have VPN running, you may now [connect to the server](/dungeoncraft-adventures/phtb/public).
+Once you have VPN running, you may now [connect to the server](/dungeoncraft-adventures/phtb).
 
 [BACK](/dungeoncraft-adventures/phtb)
