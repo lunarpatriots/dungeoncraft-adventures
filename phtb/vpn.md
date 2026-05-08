@@ -2,7 +2,7 @@
 layout: default
 permalink: /phtb/vpn/
 ---
-# Test Server VPN
+# Test Server Prerequisite
 
 To establish connection to the test server:
 

@@ -26,7 +26,7 @@ or download the `.zip` file from [Google Drive](https://drive.google.com/drive/u
    ```
    Enter your preferred `username` and `password`. These will be used to register/verify your account when you join
    the multiplayer server. \
-   **PLEASE DO NOT USE A PASSWORD YOU USE ON PERSONAL ACCOUNTS!**
+   **PLEASE DO NOT INPUT A PASSWORD THAT YOU ALSO USE ON PERSONAL ACCOUNTS!**
 4. Save your changes on the file.
 
 ### MEMORY ALLOCATION

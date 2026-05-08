@@ -15,15 +15,14 @@ permalink: /phtb/
 ## Joining Servers
    > Test server is only accessible via [VPN](./vpn).
 
-Since the server is in `offline-mode`, user whitelisting and authentication is handled differently.
-
 1. On the multiplayer screen, enter these details for the IP address:
    - Public Server: _TBA_
    - Test Server: [https://drive.google.com/file/d/1E2u4MYnIS4fXtE8vOzikyqyCl7rUsK9U](https://drive.google.com/file/d/1E2u4MYnIS4fXtE8vOzikyqyCl7rUsK9U){:target="_blank"}
 
    **PLEASE DO NOT SHARE THE SERVER INFO TO ANYONE**
-2. When you join a server for the first time, the `username` and `password` from your `dungeoncraft-client.yml` config
-   file will be sent to the server to trigger the registration, and this message should appear:
+2. Since the server is in `offline-mode`, user whitelisting and authentication is handled differently. When you join a
+   server for the first time, the `username` and `password` from your `dungeoncraft-client.yml` config file will be sent
+   to the server to trigger the registration, and this message should appear:
  
    `Thank you for registering! Please wait to be whitelisted.`
 
@@ -39,5 +38,5 @@ Since the server is in `offline-mode`, user whitelisting and authentication is h
    | Config file missing!           | Check if you have set up `dungeoncraft-client.yml` correctly |
 
    > Make sure your modpack always matches the server's version before joining. There should be a green
-   > checkmark ppearing beside the server entry on the selection screen.
+   > checkmark beside the server entry on the selection screen.
 
