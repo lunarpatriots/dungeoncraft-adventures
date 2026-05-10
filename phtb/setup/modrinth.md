@@ -22,11 +22,16 @@ and double-click it to import to Modrinth Launcher.
     - `/config/yosbr/config` folder if you have not launched the modpack yet
 3. Open `dungeoncraft-client.yml` on notepad or any text editor. You should see these two entries:
    ```
-   username:
+   username: 
    password:
    ```
    Enter your preferred `username` and `password`. These will be used to register/verify your account when you join
    the multiplayer server. \
+   Note that there should be a space after the `:` symbol.\
+   ```
+   username: lunarpatriots
+   password: ********
+   ```
    **PLEASE DO NOT INPUT A PASSWORD THAT YOU ALSO USE ON PERSONAL ACCOUNTS!**
 4. Save your changes on the file.
 
