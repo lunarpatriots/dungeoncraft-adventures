@@ -27,7 +27,7 @@ and double-click it to import to Modrinth Launcher.
    ```
    Enter your preferred `username` and `password`. These will be used to register/verify your account when you join
    the multiplayer server. \
-   Note that there should be a space after the `:` symbol.\
+   Note that there should be a space after the `:` symbol.
    ```
    username: lunarpatriots
    password: ********
