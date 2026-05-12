@@ -11,7 +11,7 @@ To establish connection to the test server:
 3. A dialog box will appear asking you for the Network name and Password.
    Input the details in this [file](https://drive.google.com/file/d/1E2u4MYnIS4fXtE8vOzikyqyCl7rUsK9U){:target="_blank"}
    then click `Join`. \
-   **PLEASE DO NOT SHARE THE VPN INFORMATION TO OTHERS**
+   **PLEASE DO NOT SHARE THE NETWORK INFORMATION TO THE PUBLIC**
 
 Once you have VPN running, you may now [connect to the server](/dungeoncraft-adventures/phtb).
 
