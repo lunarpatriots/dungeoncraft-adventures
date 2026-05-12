@@ -3,7 +3,7 @@ layout: default
 permalink: /phtb/modrinth
 ---
 
-# Modrinth Setup Guide
+# MODRINTH SETUP GUIDE
 ## How to install
 
 Download the latest version from [Modrinth](https://modrinth.com/modpack/dungeoncraft-adventures-phtb){:target="_blank"},

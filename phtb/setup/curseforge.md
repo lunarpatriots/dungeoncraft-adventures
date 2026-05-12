@@ -3,13 +3,13 @@ layout: default
 permalink: /phtb/curseforge
 ---
 
-# CurseForge Setup Guide
+# CURSEFORGE SETUP GUIDE
 ## How to install
  
 Download the latest version from [CurseForge](https://www.curseforge.com/minecraft/modpacks/dungeoncraft-adventures-phtb){:target="_blank"},
 or download the `.zip` file from [Google Drive](https://drive.google.com/drive/u/3/folders/1RR9sml92bkdy7OU01KmLAQEtSdyDtJ0G){:target="_blank"} and import it to your CurseForge launcher.
 
-## MEMORY ALLOCATION
+## Memory Allocation
 
 > A minimum of 4GB RAM is recoommended for the modpack to run smoothly.
 
