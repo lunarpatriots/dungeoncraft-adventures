@@ -44,8 +44,7 @@ permalink: /phtb/
    | Unable to authenticate player! | Check if you have set up your `username`/`password` on the DungeonCraft Core config correctly |
    | Password is incorrect!         | Check if you have set up your `username`/`password` on the DungeonCraft Core config correctly |
    | User is not registered!        | Server admin disabled registration for new players                                            |
-   | Authentication error!          | Server side error, please reach out to admin                                                  |
-   | Config file missing!           | Check if you have set up your `username`/`password` on the DungeonCraft Core config correctly |
+   | Authentication error!          | Check if you have set up your `username`/`password` on the DungeonCraft Core config correctly |
 
    > Make sure your current modpack version always matches the server's version before joining. There should be a green
    > checkmark beside the server entry on the selection screen.
