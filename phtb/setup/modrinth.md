@@ -16,8 +16,9 @@ and double-click it to import to Modrinth Launcher.
 
 To allocate RAM:
 
-1. Click `Settings` > `General`
-2. Under `Java and memory`, set RAM allocation to `4096 MB`, or more depending on how much extra your system has.
+1. Click `Instance Settings` > `General` > `Java and Memory`
+2. Under `Memory allocated`, set RAM allocation to `4096 MB`, or more depending on how much extra your system has.
+> If you have set 8GB (8192 MB) or more RAM, also add `Java arguments`, add `-XX:+UseZGC -XX:+ZGenerational` for better Java garbage collection.
 
 Once these have been configured, you are now ready to join a server.
 
