@@ -17,7 +17,7 @@ To allocate RAM:
 
 1. Click `Options` > `Profile Options`
 2. Under `Memory Settings`, set RAM allocation to `4096 MB`, or more depending on how much extra your system has. 
-> If you have set 8GB (8192 MB) or more RAM, also add `-XX:+UseZGC -XX:+ZGenerational` under `Additional Arguments` for better Java garbage collection.
+> If you have set `8GB (8192 MB)` or more RAM, also add `-XX:+UseZGC -XX:+ZGenerational` under `Additional Arguments` for better Java garbage collection.
 
 Once these have been configured, you are now ready to join a server.
 
