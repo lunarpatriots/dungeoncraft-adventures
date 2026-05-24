@@ -24,6 +24,9 @@ permalink: /phtb/
 
 ## Joining Servers
 
+> Make sure your current modpack version always matches the server's version before joining. There should be a green
+> checkmark beside the server entry on the selection screen.
+
 1. On the multiplayer server selection screen, click on `Add Server` and enter this server address:
    - Public Server: _TBA_
    - Test Server: [link](https://drive.google.com/file/d/1E2u4MYnIS4fXtE8vOzikyqyCl7rUsK9U){:target="_blank"}
@@ -45,6 +48,3 @@ permalink: /phtb/
    | Password is incorrect!         | Check if you have set up your `username`/`password` on the DungeonCraft Core config correctly |
    | User is not registered!        | Server admin disabled registration for new players                                            |
    | Authentication error!          | Server side error, please inform admin                                                        |
-
-   > Make sure your current modpack version always matches the server's version before joining. There should be a green
-   > checkmark beside the server entry on the selection screen.
