@@ -4,36 +4,35 @@
 [![curseforge-badge](https://img.shields.io/curseforge/dt/1498481?style=flat-square&logo=curseforge&label=CurseForge)](https://curseforge.com/projects/1498481)
 ## FEATURES:
 
-👉 Custom biomes from **Terralith**, **Incendium**, and **BetterEnd**
+### WORLD GENERATION
+👉 Overhauled overworld terrain and biome generation from Terralith, Ecologics, Geophilic, and Tectonic \
+👉 New nether biomes and structures from Incendium, Moog's Nether Structures, and more \
+👉 New End biomes and structures from Enderscape, Moog's End Structures, and more \
+👉 Backported modern minecraft features introduced in _**Bundles of Bravery**_, _**The Garden Awakens**_, _**Spring to Life**_, _**Chase the Skies**_, and _**Chaos Cubed**_ \
+👉 Major redesign of vanilla dungeons and structures \
+👉 New dungeons and structures of varying difficulty from When Dungeons Arise, Roguelike Dungeons, and more 
 
-👉 **Vanilla Backport** for new features introduced in 1.21.2 - 1.21.6
+### EXPLORATION AND SURVIVAL
+👉 Advanced Netherite - 4 new tiers of Netherite with their own unique properties \
+👉 New food/crops from Farmer's Delight, Farm & Charm, and a few select add-ons \
+👉 Gravestones that protect your items from despawning upon death \
+👉 Craftable and upgradeable backpacks from Traveler's Backpack \
+👉 Xaero's World Map, Xaero's Minimap, and Waystones to aid in exploration/navigation
 
-👉 Major redesign of vanilla dungeons/structures
+### BUILDING
+👉 Effortless Structure - create structures and designs with ease \
+👉 New furniture/decorative blocks from Handcrafted, Macaw's Furniture, Supplementaries, Amendments, and more \
+👉 Player-built shops from Spud's Shops
 
-👉 New dungeons and structures from **When Dungeons Arise**, **Towns and Towers**, **Moog's Voyager Structures**, **Structory**, **Simply Houses**, **Sky Villages**, and **Dungeons and Taverns**
-
-👉 New furniture blocks from **Handcrafted**, **Macaw's Furniture**, **Supplementaries**, and **Amendments**
-
-👉 Musical frogs living in swamps from **Ribbits**
-
-👉 New food/crops from **Farmer's Delight**, **Farm & Charm**, **Bakery**, and **Herbal Brews**
-
-👉 **Xaero's World Map**, **Xaero's Minimap**, and **Waystones** for better exploration
-
-👉 Builtin shader support from **Iris Shaders**
-
-👉 Builtin Optifine features without needing to install Optifine
-
-👉 Lots of QoL and performance mods
-
-**NOT COMPATIBLE WITH OPTIFINE!**
+### MISCELLANEOUS
+👉 **NO NEED TO INSTALL OPTIFINE!** Builtin shader support, connected textures, and other Optifine features \
+👉 Lots of Quality of life and performance/optimizatiom mods
 
 ## CREDITS:
 
 <details>
   <summary>Resource Packs</summary>
     <ul>
-      <li>Better BetterX - <a href="https://www.curseforge.com/minecraft/texture-packs/better-betterx">CurseForge</a> / <a href="https://modrinth.com/resourcepack/better-betterx">Modrinth</a></li>
       <li>Fresh Waystones Texture - <a href="https://www.curseforge.com/minecraft/texture-packs/fresh-waystones-texture">CurseForge</a> / <a href="">Modrinth</a></li>
       <li> Hellim's Xaero's Maps Mob Icons - <a href="https://www.curseforge.com/minecraft/texture-packs/hellims-xaeros-maps-mob-icons">CurseForge</a></li>
       <li> Recolourful Containers GUI + HUD - <a href="https://modrinth.com/resourcepack/recolourful-containers-gui">CurseForge</a> / <a href="https://modrinth.com/resourcepack/recolourful-containers-gui">Modrinth</a> </li>
